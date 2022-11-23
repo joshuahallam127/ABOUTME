@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jefry1217
-- 👀 I’m interested in (i'll update this later).
-- 🌱 I’m currently learning anything I can to do with programming, I know that I really enjoy it but not sure what aspect of programming I want to go into yet, so am currently just learning heaps and trying as many things as I can.
-- 💞️ I’m looking to collaborate on basically any projects that I can work on, I'm a new programmer but if you want a programmer buddy to work on something with, let me know, just trying to learn as much as I can.
+- 👀 I’m interested in basically just solving problems. I love computer science because I love technology and I love the challenge of working on new projects, learning things, and trying to solve difficult problems. 
+- 🌱 I’m currently learning anything I can to do with programming, over the uni holidays I'm gonna be focused on learning algorithms and maybe making some useful programs in my free time. 
+- 💞️ I’m looking to collaborate on basically any projects that I can work on, if it's something that I can learn from, then let's do it.
 - 📫 How to reach me (i'll update this later).
 
 <!---

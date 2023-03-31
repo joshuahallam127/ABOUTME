@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Jefry1217
-- 👀 I’m interested in basically just solving problems. I love computer science because I love technology and I love the challenge of working on new projects, learning things, and trying to solve difficult problems. 
-- 🌱 I’m currently learning anything I can to do with programming, over the uni holidays I'm gonna be focused on learning algorithms and maybe making some useful programs in my free time. 
-- 💞️ I’m looking to collaborate on basically any projects that I can work on, if it's something that I can learn from, then let's do it.
-- 📫 How to reach me (i'll update this later).
-
-<!---
-Jefry1217/Jefry1217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm interested in all things technology and innovation, and love solving problems. I love the challenge of working on new projects, learning things, and trying to come up with unique solutions to difficult problems that will help increase people's quality of life and/or advance human civilization.
+- 🌱 I'm currently learning anything I can to do with programming, however I'm specifically interested in software and data structures and algorithms right now.
+- 💞️ I’m looking to collaborate on any projects that will challenge me, if it's something that I can learn from, then let's do it.
+- 📫 How to reach me: Mobile: 0499 444 003, Email: joshua.hallam127@gmail.com
+- The pinned repositories are personal or school projects that I've done. 
